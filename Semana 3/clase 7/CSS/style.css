@@ -1,0 +1,44 @@
+header{
+    background-color:#E6E6E6;
+    text-align: center;
+}
+.espacio{ background-color: #ffffff;
+    padding: 35px;
+}
+
+.title1{
+    background-color: #C4C4C4;
+    text-align: center;
+    color: #005677;
+}
+li{
+    font-family: 'Times New Roman';
+    font-style: italic;
+}
+.salto{
+    position: absolute;
+}
+.espacio1{
+    margin-left: 75px;
+}
+h3{
+    background-color: #C4C4C4;
+    color: #005677;
+}
+footer{
+    background-color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #FFFFFF;
+    
+    
+    
+    
+    
+    
+    
+    
+
+}
+
+
